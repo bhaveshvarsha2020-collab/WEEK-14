@@ -59,4 +59,10 @@ Or run the notebook directly in Google Colab.
 
 📁 Project Structure 📦 Credit-Card-Fraud-Detection │ ├── credit_card_fraud_detection.ipynb ├── cleaned_creditcard_dataset.csv ├── README.md │ └── visualizations/ ├── fraud_distribution.png ├── amount_distribution.png ├── heatmap.png └── risk_analysis.png
 
+<img width="960" height="540" alt="image" src="https://github.com/user-attachments/assets/6def6ed6-7f34-4188-96aa-9d78754406ca" />
+
+<img width="960" height="540" alt="image" src="https://github.com/user-attachments/assets/f76b086a-5eba-42c9-9944-578bfc11d8a7" />
+
+
+
 

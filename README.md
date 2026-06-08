@@ -1,5 +1,6 @@
-Credit-Card-Fraud-Detection-System-week-14
--Credit-Card-Fraud-Dete-ction-System Project Overview
+# Credit-Card-Fraud-Detection-System
+
+Credit-Card-Fraud-Dete-ction-System Project Overview
 
 This project focuses on analyzing credit card transaction data to identify fraudulent activities, understand transaction patterns, and assess transaction risk levels. The project uses data preprocessing, exploratory data analysis (EDA), visualization, and Machine Learning techniques to gain insights into fraud detection.
 
